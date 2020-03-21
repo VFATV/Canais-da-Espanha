@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="La 2">
+    <display-name lang="es">La 2</display-name>
+    <url>http://www.laguiatv.com</url>
+  </channel>
+  <channel id="Antena 3">
+    <display-name lang="es">Antena 3</display-name>
+    <url>http://www.laguiatv.com</url>
+  </channel>
+  <channel id="Cuatro">
+    <display-name lang="es">Cuatro</display-name>
+    <url>http://www.laguiatv.com</url>
+  </channel>
+  <channel id="Tele 5">
+    <display-name lang="es">Tele 5</display-name>
+    <url>http://www.laguiatv.com</url>
+  </channel>
+  <channel id="FDF">
+    <display-name lang="es">FDF</display-name>
+    <url>http://www.laguiatv.com</url>
+  </channel>
+  <channel id="Divinity">
+    <display-name lang="es">Divinity</display-name>
+    <url>http://www.laguiatv.com</url>
+  </channel>
+  <channel id="La Sexta">
+    <display-name lang="es">La Sexta</display-name>
+    <url>http://www.laguiatv.com</url>
+  </channel>
+  <channel id="Energy">
+    <display-name lang="es">Energy</display-name>
+    <url>http://www.laguiatv.com</url>
+  </channel>
+  <channel id="ETB 1">
+    <display-name lang="es">ETB 1</display-name>
+    <url>http://www.laguiatv.com</url>
+  </channel>
+  <channel id="ETB 2">
+    <display-name lang="es">ETB 2</display-name>
+    <url>http://www.laguiatv.com</url>
+  </channel>
+  <channel id="Telemadrid">
+    <display-name lang="es">Telemadrid</display-name>
+    <url>http://www.laguiatv.com</url>
+  </channel>
+  <channel id="laOtra">
+    <display-name lang="es">laOtra</display-name>
+    <url>http://www.laguiatv.com</url>
+  </channel>
+  <channel id="Canal 33">
+    <display-name lang="es">Canal 33</display-name>
+    <url>http://www.laguiatv.com</url>
+  </channel>
+  <channel id="TVG">
+    <display-name lang="es">TVG</display-name>
+    <url>http://www.laguiatv.com</url>
+  </channel>
+  <channel id="Canal Extremadura">
+    <display-name lang="es">Canal Extremadura</display-name>
+    <url>http://www.laguiatv.com</url>
+  </channel>
+  <channel id="Aragón TV">
+    <display-name lang="es">Aragón TV</display-name>
+    <url>http://www.laguiatv.com</url>
+  </channel>
+  <channel id="Intereconomía">
+    <display-name lang="es">Intereconomía</display-name>
+    <url>http://www.laguiatv.com</url>
+  </channel>
+</tv>
